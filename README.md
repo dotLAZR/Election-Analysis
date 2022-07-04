@@ -3,7 +3,6 @@
  * Using the power of Python to automate the analysis of votes to help us determine the winner of the election. Using python, It enables us to provide Tom and the Election Commission formatted concise election data, allowing them to declare a winner. 
 
 ## Results
-
 ![Command Line Output](./Resources/Election_Results_CommandLine.png)
 
 * There was a total of 369,711 votes cast in the election
@@ -19,7 +18,7 @@
 * Runner-Up - Charles Casper Stockham (85,213)
     - Received 23% of total votes cast.
     <br>
-    <br>
+
 * Winner - Diana DeGette (272,892)
     - Received 73.8% of total votes cast
     <br>
